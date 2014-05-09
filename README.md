@@ -20,12 +20,21 @@ CREATE TABLE IF NOT EXISTS `notifications` (
 Quick Description:
 
 id: pretty self explanitory
+
 time: creation date of the row in database
+
 recipient: the email address you want to send a notification to (example: john@doe.com)
+
 recipient_name: the friendly name of the person getting the email (example: John Doe)
+
 subject: the subject of the email
+
 message: the message
+
 sender: who the email should be from (example: admin@example.com)
+
 sender_name: the friendly name of the sender (example: Example.com Support Team)
+
 cron: boolean flag to signal completed jobs
+
 
