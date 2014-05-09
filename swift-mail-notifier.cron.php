@@ -1,7 +1,7 @@
 <?php
 /*
 Name: swift-cron-notifier
-Author: Jeff Baker (sinerasis at gmail dot come)
+Author: Jeff Baker (sinerasis at gmail dot com)
 Date: May 2014
 
 This script is designed to work with the servers CRON scheduler, it will check the notifications table
